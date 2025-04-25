@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Replace with actual color code -->
+    <color name="primary_color">#2196F3</color> <!-- Blue color -->
+    <color name="white">#FFFFFF</color>
+    <color name="splash_background">#FFFFFF</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="accent_color">#6200EE</color>
+</resources>
