@@ -12,4 +12,12 @@
     <string name="app_tagline" />
     <string name="version_text" />
     <string name="app_logo_description" />
+    <string name="retry" />
+    <string name="back" />
+    <string name="search_users_hint" />
+    <string name="no_results" />
+    <string name="no_users_found" />
+    <string name="try_different_search" />
+    <string name="network_error" />
+    <string name="connection_error" />
 </resources>

@@ -88,7 +88,7 @@
         android:layout_marginBottom="15dp" />
 
     <!-- Divider with Text -->
-    <LinearLayout
+  <!--  <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal"
@@ -115,7 +115,7 @@
             android:background="#DDDDDD" />
     </LinearLayout>
 
-    <!-- Social Login Buttons -->
+     Social Login Buttons
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -123,7 +123,7 @@
         android:gravity="center"
         android:layout_marginBottom="20dp">
 
-        <!-- Google Button -->
+         Google Button
         <ImageButton
             android:id="@+id/btn_google"
             android:layout_width="50dp"
@@ -134,7 +134,7 @@
             android:contentDescription="Sign up with Google"
             android:layout_marginEnd="15dp" />
 
-        <!-- Facebook Button -->
+         Facebook Button
         <ImageButton
             android:id="@+id/btnFacebook"
             android:layout_width="50dp"
@@ -144,8 +144,7 @@
             android:background="@drawable/social_button_background"
             android:contentDescription="Sign up with Facebook" />
     </LinearLayout>
-
-    <!-- Login Link -->
+    -->
     <TextView
         android:id="@+id/tv_login"
         android:layout_width="match_parent"
